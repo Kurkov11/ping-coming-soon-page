@@ -58,4 +58,5 @@ main{
     font-weight: 600;
     text-align: center;
     padding: 1rem 2rem;
+    border-radius: 3rem;
 }
