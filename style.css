@@ -65,6 +65,11 @@ main{
     display: flex;
     justify-content: center;
 }
+.icon-parent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .icon{
     height: 30px;
 }
