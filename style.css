@@ -37,3 +37,7 @@ main{
 #call-to-action{
     font-size: 16px;
 }
+#form-input{
+    border: 1px hsl(0, 0%, 59%) solid;
+    width: 100%;
+}
