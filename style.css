@@ -30,6 +30,10 @@ main{
     font-weight: 300;
     color: hsl(0, 0%, 59%);
 }
+#main-msg span{
+    font-weight: 700;
+    color: black;
+}
 #call-to-action{
     font-size: 16px;
 }
