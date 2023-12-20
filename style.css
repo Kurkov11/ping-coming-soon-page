@@ -24,11 +24,13 @@ main{
 }
 #logo{
     max-height: 20px;
+    margin-bottom: 4rem;
 }
 #main-msg{
     font-size: 25px;
     font-weight: 300;
     color: hsl(0, 0%, 59%);
+    margin-bottom: 1rem;
 }
 #main-msg span{
     font-weight: 700;
@@ -36,6 +38,7 @@ main{
 }
 #call-to-action{
     font-size: 16px;
+    margin-bottom: 3rem;
 }
 #formAndButton{
     width: 100%;
