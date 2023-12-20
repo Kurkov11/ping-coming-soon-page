@@ -37,9 +37,15 @@ main{
 #call-to-action{
     font-size: 16px;
 }
+#formAndButton{
+    width: 100%;
+}
+#form-parent{
+    width: 100%;
+}
 #form-input{
     border: 1px hsl(0, 0%, 59%) solid;
     border-radius: 3rem;
-    width: 100%;
     padding: 0.6rem 2rem;
+    width: 100%;
 }
