@@ -49,3 +49,6 @@ main{
     padding: 0.6rem 2rem;
     width: 100%;
 }
+#error-msg{
+    display: none;
+}
