@@ -72,6 +72,10 @@ main{
     border-radius: 3rem;
     box-shadow: hsla(223, 87%, 63%, 0.4) 0px 6px 24px 0px, hsla(223, 87%, 63%, 0.5) 0px 0px 0px 1px;
 }
+#notify-btn:hover{
+    background-color: hsl(223, 85%, 68%);
+    box-shadow: hsla(223, 85%, 68%, 0.4) 0px 6px 24px 0px, hsla(223, 85%, 68%, 0.5) 0px 0px 0px 1px;
+}
 #lowerPart{
 
 }
