@@ -70,6 +70,7 @@ main{
     text-align: center;
     padding: 1rem 2rem;
     border-radius: 3rem;
+    box-shadow: hsla(223, 87%, 63%, 0.4) 0px 6px 24px 0px, hsla(223, 87%, 63%, 0.5) 0px 0px 0px 1px;
 }
 #lowerPart{
 
