@@ -107,13 +107,13 @@ main{
     background-size: contain;
 }
 #fb-icon{
-    background-image: url(images/facebook-f.svg);
+    background-image: url(images/fb-icon-blue.svg);
 }
 #x-icon{
-    background-image: url(images/x-twitter.svg);
+    background-image: url(images/x-icon-blue.svg);
 }
 #ig-icon{
-    background-image: url(images/instagram.svg);
+    background-image: url(images/ig-icon-blue.svg);
 }
 #copyright{
     text-align: center;
