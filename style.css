@@ -64,6 +64,7 @@ main{
     text-align: center;
 }
 #notify-btn{
+    transition-duration: 0.2s;
     background-color: hsl(223, 87%, 63%);
     color: white;
     font-weight: 600;
@@ -73,6 +74,7 @@ main{
     box-shadow: hsla(223, 87%, 63%, 0.4) 0px 6px 24px 0px, hsla(223, 87%, 63%, 0.5) 0px 0px 0px 1px;
 }
 #notify-btn:hover{
+    transition-duration: 0.2s;
     background-color: hsl(223, 85%, 68%);
     box-shadow: hsla(223, 85%, 68%, 0.4) 0px 6px 24px 0px, hsla(223, 85%, 68%, 0.5) 0px 0px 0px 1px;
 }
@@ -97,9 +99,11 @@ main{
     background-repeat: no-repeat;
     background-position: center;
     background-size: 50%;
+    transition-duration: 0.2s;
 }
 .icon:hover{
     background-color: hsl(223, 87%, 63%);
+    transition-duration: 0.2s;
 }
 #fb-icon:hover{
     background-image: url(images/fb-icon-white.svg);
