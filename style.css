@@ -42,6 +42,8 @@ main{
 }
 #formAndButton{
     width: 100%;
+    display: flex;
+    flex-direction: column;
 }
 #form-parent{
     width: 100%;
