@@ -21,6 +21,7 @@ main{
     align-items: center;
     width: 100%;
     height: fit-content;
+    margin-bottom: 2rem;
 }
 #logo{
     max-height: 20px;
