@@ -98,6 +98,18 @@ main{
     background-position: center;
     background-size: 50%;
 }
+.icon:hover{
+    background-color: hsl(223, 87%, 63%);
+}
+#fb-icon:hover{
+    background-image: url(images/fb-icon-white.svg);
+}
+#x-icon:hover{
+    background-image: url(images/x-icon-white.svg);
+}
+#ig-icon:hover{
+    background-image: url(images/ig-icon-white.svg);
+}
 #fb-icon{
     background-image: url(images/fb-icon-blue.svg);
     background-size: 40%;
