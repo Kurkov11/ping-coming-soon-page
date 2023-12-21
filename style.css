@@ -57,6 +57,8 @@ main{
 }
 #error-msg{
     display: none;
+    color: red;
+    text-align: center;
 }
 #notify-btn{
     background-color: hsl(223, 87%, 63%);

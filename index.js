@@ -5,5 +5,6 @@ function isEmail(email) {
 document.getElementById('notify-btn').onclick = function(){
     if(! isEmail(document.getElementById('form-input').value)){
         document.getElementById('form-input').style.border = 'red solid 1px';
+        document.getElementById("error-msg").style.display = 'block';
     }
 }
