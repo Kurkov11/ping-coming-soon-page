@@ -7,6 +7,7 @@ html{
     justify-content: space-between;
     align-items: center;
     padding: 2rem;
+    min-width: 317px;
 }
 .sm-dummy{
     width: 50px;
@@ -45,6 +46,8 @@ main{
     display: flex;
     flex-direction: column;
     gap: 1rem;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 #form-parent{
     width: 100%;
@@ -126,4 +129,24 @@ main{
 }
 #copyright{
     text-align: center;
+}
+@media only screen and (width >= 600px){
+    #formAndButton{
+        flex-direction: row;
+        justify-content: center;
+    }
+    #form-parent{
+        max-width: 430px;
+    }
+    #notify-btn{
+       width: 100%;
+       max-width: 430px;
+       height: 53px;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+    }
+    #lowerPart{
+        max-width: 995px;
+    }
 }
