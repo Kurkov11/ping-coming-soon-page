@@ -100,6 +100,20 @@ main{
 }
 .icon{
     height: 30px;
+    width: 60%;
+    height: 60%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+#fb-icon{
+    background-image: url(images/facebook-f.svg);
+}
+#x-icon{
+    background-image: url(images/x-twitter.svg);
+}
+#ig-icon{
+    background-image: url(images/instagram.svg);
 }
 #copyright{
     text-align: center;
