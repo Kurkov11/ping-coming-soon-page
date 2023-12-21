@@ -6,5 +6,8 @@ document.getElementById('notify-btn').onclick = function(){
     if(! isEmail(document.getElementById('form-input').value)){
         document.getElementById('form-input').style.border = 'red solid 1px';
         document.getElementById("error-msg").style.display = 'block';
+    }else{
+        document.getElementById('form-input').style.border = '1px hsl(0, 0%, 59%) solid'
+        document.getElementById("error-msg").style.display = 'none';
     }
 }
